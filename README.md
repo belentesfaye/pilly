@@ -61,12 +61,12 @@ Pilly is a user-friendly iOS application designed to help reduce medical non-adh
 ## Screenshots
 
 ### ScreenShot1
-![ScreenShot1](assets/Picture1.png)
+![ScreenShot1](ssets.xcassets/Picture1.imageset/Picture1.png)
 
 ### ScreenShot2
-![ScreenShot2](assets/Picture2.png)
+![ScreenShot2](Assets.xcassets/Picture2.imageset/Picture2.png)
 ### ScreenShot3
-![ScreenShot3](assets/Picture3.png)
+![ScreenShot3](Assets.xcassets/Picture3.imageset/Picture3.png)
 
 
 
