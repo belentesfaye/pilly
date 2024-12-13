@@ -81,7 +81,7 @@ To clone and run the app locally:
 1. Ensure Xcode is installed.
 2. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-repo>/pilly.git
+   git clone https://github.com/belentesfaye/pilly.git
    ```
 3. Open the project in Xcode and install dependencies.
 4. Run the app on a simulator or connected device.
